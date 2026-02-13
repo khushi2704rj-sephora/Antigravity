@@ -170,7 +170,7 @@ export default function Landing() {
                 <h2>Meet the Team</h2>
                 <div className="team-grid">
                     <div className="team-member">Adithya Ajith</div>
-                    <div className="team-member">Darsha Mehta</div>
+                    <div className="team-member">Darshan Mehta</div>
                     <div className="team-member">Rishab P Jain</div>
                     <div className="team-member">Shrey Jain</div>
                 </div>
