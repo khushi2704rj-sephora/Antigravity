@@ -165,6 +165,16 @@ export default function Landing() {
                     </div>
                 </div>
             </section>
+            {/* Team */}
+            <section className="container team-section reveal">
+                <h2>Meet the Team</h2>
+                <div className="team-grid">
+                    <div className="team-member">Adithya Ajith</div>
+                    <div className="team-member">Khushi Kothari</div>
+                    <div className="team-member">Rishab P Jain</div>
+                    <div className="team-member">Shrey Jain</div>
+                </div>
+            </section>
 
             {/* Footer */}
             <footer className="container">
