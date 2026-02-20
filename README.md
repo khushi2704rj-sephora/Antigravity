@@ -1,3 +1,5 @@
+[![Deploy](https://github.com/khushi2704rj-sephora/Antigravity/actions/workflows/railway.yml/badge.svg)](https://github.com/khushi2704rj-sephora/Antigravity/actions/workflows/railway.yml)
+
 <div align="center">
 
 # 🌌 Antigravity: The Game Theory Lab
