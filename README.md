@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving<img src="assets/banner.svg" alt="Banner" width="100%">color=0:0d1117,50:2d1a4a,100:7c3aed<img src="assets/banner.svg" alt="Banner" width="100%">height=220<img src="assets/banner.svg" alt="Banner" width="100%">section=header<img src="assets/banner.svg" alt="Banner" width="100%">text=Antigravity<img src="assets/banner.svg" alt="Banner" width="100%">fontSize=48<img src="assets/banner.svg" alt="Banner" width="100%">fontColor=ffffff<img src="assets/banner.svg" alt="Banner" width="100%">animation=fadeIn<img src="assets/banner.svg" alt="Banner" width="100%">fontAlignY=35<img src="assets/banner.svg" alt="Banner" width="100%">desc=Game%20Theory%20Lab%20%7C%20Nash%20Equilibria%20%7C%20Multi-Agent%20Simulations<img src="assets/banner.svg" alt="Banner" width="100%">descSize=16<img src="assets/banner.svg" alt="Banner" width="100%">descAlignY=55<img src="assets/banner.svg" alt="Banner" width="100%">descColor=cccccc" alt="Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1a4a,100:7c3aed&height=220&section=header&text=Antigravity&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Game%20Theory%20Lab%20%7C%20Nash%20Equilibria%20%7C%20Multi-Agent%20Simulations&descSize=16&descAlignY=55&descColor=cccccc" alt="Banner" width="100%">
 
 </div>
 
