@@ -14,7 +14,42 @@
 
 [🚀 **Live Demo**](https://antigravity.railway.app) · [📖 **API Documentation**](https://antigravity.railway.app/docs)
 
+---
+
+[🎯 Overview](#-project-overview) · [🎲 Simulations](#-simulations-catalog) · [🏗️ Architecture](#️-system-architecture) · [📂 Structure](#-repository-structure) · [🚀 Quick Start](#-quick-start) · [🤝 Contributing](#-contributing)
+
 </div>
+
+---
+
+## 🎲 Simulations Catalog
+
+All **22 interactive simulations** organized by category:
+
+| Category | Simulation | Description |
+|---|---|---|
+| **🎯 Classic Games** | Prisoner's Dilemma | The foundational cooperation vs. defection dilemma |
+| | Stag Hunt | Coordination game exploring risk-dominant vs. payoff-dominant equilibria |
+| | Battle of the Sexes | Coordination with conflicting preferences |
+| | Matching Pennies | Zero-sum game with mixed strategy equilibria |
+| | Rock Paper Scissors | Extended RPS with evolutionary dynamics |
+| **💰 Economic Models** | Cournot-Bertrand | Oligopoly competition: quantity vs. price setting |
+| | Stackelberg | Leader-follower sequential competition |
+| | Market Entry | Entry deterrence and accommodation strategies |
+| | Auction Mechanisms | First-price, second-price, and all-pay auction formats |
+| | Supply Chain | Multi-tier supply chain coordination games |
+| **🤝 Negotiation & Social** | Ultimatum Game | Fair division and rejection thresholds |
+| | Public Goods | Free-rider problem and contribution dynamics |
+| | Centipede Game | Backward induction vs. cooperative behavior |
+| | War of Attrition | Persistence and escalation in conflict scenarios |
+| | Multi-Agent Negotiation | N-player bargaining with coalition dynamics |
+| **🧠 Advanced Theory** | Bayesian Signaling | Information asymmetry and strategic signaling |
+| | Coalition Formation | Shapley values and cooperative game theory |
+| | Reputation & Trust | Repeated games with reputation building |
+| | Network Contagion | Strategy spread through network topologies |
+| | Evolutionary Stable Strategies | Population dynamics and ESS analysis |
+| | Coordination (General) | Generalized coordination with multiple equilibria |
+| | Colonel Blotto | Resource allocation across multiple battlefields |
 
 ---
 
@@ -23,10 +58,11 @@
 **Antigravity** bridges the gap between abstract mathematical models and intuitive understanding. Built with a high-performance **FastAPI** backend and a **React 19** frontend, it allows researchers and students to simulate complex game-theoretic scenarios in real-time.
 
 **Key Features:**
-- **20+ Simulations**: Prisoner's Dilemma, Stag Hunt, Ultimatum Game, and more.
+- **22 Simulations**: From classic dilemmas to advanced multi-agent systems.
 - **Nash Solver**: Real-time calculation of pure and mixed strategy equilibria using `Nashpy`.
 - **Interactive Visuals**: Dynamic payoff matrices and evolution graphs using `Plotly.js`.
 - **Material Design 3**: A polished, Google-inspired UI with glassmorphism effects.
+- **Dockerized Deployment**: One-command setup with `docker-compose`.
 
 ---
 
@@ -130,6 +166,14 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 <div align="center">
 
-**Built with ❤️ for Game Theory**
+### 👩‍💻 Author
+
+**Khushi Kothari**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khushi2704rj-sephora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kothari--/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khushi2704.ak@gmail.com)
+
+*MSc Business Analytics · Game Theory & Strategic Decision-Making*
 
 </div>
