@@ -19,7 +19,7 @@
 
 **A modern, interactive simulation platform for visualizing Game Theory concepts, Nash Equilibria, and Multi-Agent dynamics.**
 
-[🚀 **Live Demo**](https://antigravity.railway.app) · [📖 **API Documentation**](https://antigravity.railway.app/docs)
+[🚀 **Live Demo**](https://antigravity-production-eae2.up.railway.app/) · [📖 **API Documentation**](https://antigravity-production-eae2.up.railway.app/docs)
 
 ---
 
